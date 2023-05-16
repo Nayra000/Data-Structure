@@ -1,0 +1,6 @@
+﻿  QueueCode.cpp
+D:\Data structure\code\QueueCode\QueueCode.cpp(21,1): error C2955: 'Node': use of class template requires template argument list
+D:\Data structure\code\QueueCode\QueueCode.cpp(5): message : see declaration of 'Node'
+D:\Data structure\code\QueueCode\QueueCode.cpp(106): message : see reference to class template instantiation 'Queue<type>' being compiled
+D:\Data structure\code\QueueCode\QueueCode.cpp(106,1): error C2514: 'Node': class template cannot be constructed
+D:\Data structure\code\QueueCode\QueueCode.cpp(5): message : see declaration of 'Node'
